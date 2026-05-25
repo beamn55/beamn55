@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me
+- 🖐🏻 Hi I'm Bea Marie R Nicanor 
 
-<!--
-**beamn55/beamn55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## School
+- Fullbright College Inc.
 
-Here are some ideas to get you started:
+## Education 
+- Bachelor of Science in Computer Science
+  
+## How to Contact Me
+- 📫 reach me at: nicanorbea@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+-  watching kdrama, cdrama,jdrama, anime, kpop,collecting photo cards
+
+
+
+
+
+“Learning one line of code at a time.”
