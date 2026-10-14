@@ -6,9 +6,6 @@
 
 ## Education 
 - Bachelor of Science in Computer Science
-  
-## How to Contact Me
-- 📫 reach me at: nicanorbea@gmail.com
 
 ## Hobbies
 -  watching kdrama, cdrama,jdrama, anime, kpop,collecting photo cards
