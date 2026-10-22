@@ -1,5 +1,5 @@
 ## About Me
-- 🖐🏻 Hi I'm Bea Marie R Nicanor 
+- 🖐🏻 Hi I'm Bea💙
 
 ## School
 - Fullbright College Inc.
