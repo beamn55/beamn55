@@ -8,7 +8,10 @@
 - Bachelor of Science in Computer Science
 
 ## Hobbies
--  watching kdrama, cdrama,jdrama, anime, kpop,collecting photo cards
+-  watching kdrama, cdrama,jdrama, anime, kpop,collecting photo cards ≽^•˕• ྀི≼
+
+
+
 
 
 
